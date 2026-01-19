@@ -3,18 +3,18 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f2f2f2&height=180&section=header&text=11cookies11&fontSize=42&fontAlignY=35&desc=Minimal%20builder&descAlignY=60)
 
 ## Now
-- Building small, practical tools with clean UI.
-- Learning by shipping and iterating.
+- Embedded engineer building reliable systems.
+- Also enjoy web and desktop tooling with clean UI.
 
 ## Stack
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,figma,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=c,cpp,linux,embedded,html,css,js,ts,nodejs,git,github,figma,vscode&theme=light)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=11cookies11&theme=default)
+![Streak](https://streak-stats.demolab.com?user=11cookies11&theme=default&hide_border=true)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=11cookies11&theme=github-compact)
 
