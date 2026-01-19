@@ -9,8 +9,8 @@
 
 ## Stats
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github&hide_border=true" height="170" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default&hide_border=true" height="170" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github&hide_border=true" width="49%" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
