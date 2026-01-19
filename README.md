@@ -14,12 +14,11 @@
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default)
 
-![Streak](https://streak-stats.demolab.com?user=11cookies11&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=11cookies11&theme=default)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=11cookies11&theme=github-compact)
 
 ## Featured
-![Project One](https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=project-one&theme=default)
 ![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=protoflow&theme=default)
 ![Project Three](https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=StencilForge&theme=default)
 
