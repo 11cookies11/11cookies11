@@ -2,6 +2,12 @@
   <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2ff,50:f7f7f7,100:eef7ff&height=170&section=header&text=11cookies11&fontSize=38&fontAlignY=35&desc=Minimal%20builder&descAlignY=62" />
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=3A6AD4&center=true&vCenter=true&width=460&lines=Embedded+engineer+%7C+Web+%26+Desktop;Blending+skills+with+AI+to+build+new+possibilities" />
 </div>
+<div align="center">
+  <img alt="badge-embedded" src="https://img.shields.io/static/v1?label=Embedded&message=Engineer&color=EEF6FF&style=flat-square" />
+  <img alt="badge-web" src="https://img.shields.io/static/v1?label=Web&message=Desktop&color=EEF6FF&style=flat-square" />
+  <img alt="badge-ai" src="https://img.shields.io/static/v1?label=AI&message=Explorer&color=EEF6FF&style=flat-square" />
+</div>
+<div align="center">* * *</div>
 
 ## Now
 - Embedded engineer building reliable systems.
