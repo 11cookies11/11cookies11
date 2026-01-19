@@ -5,6 +5,7 @@
 ## Now
 - Embedded engineer building reliable systems.
 - Also enjoy web and desktop tooling with clean UI.
+- Focused on blending my existing skills with AI and expanding into new areas.
 
 ## Stats
 <div align="center">
