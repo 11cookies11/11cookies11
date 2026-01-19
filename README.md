@@ -23,8 +23,8 @@
 
 ## Featured
 <div align="center">
-  <img alt="ProtoFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=protoflow&theme=default" />
-  <img alt="StencilForge" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=StencilForge&theme=default" />
+  <img alt="ProtoFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=protoflow&theme=default" width="49%" />
+  <img alt="StencilForge" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=StencilForge&theme=default" width="49%" />
 </div>
 
 ## Milestones
