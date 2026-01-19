@@ -6,11 +6,6 @@
 - Embedded engineer building reliable systems.
 - Also enjoy web and desktop tooling with clean UI.
 
-## Stack
-<div align="center">
-  <img alt="skills" src="https://skillicons.dev/icons?i=c,cpp,linux,embedded,html,css,js,ts,nodejs,git,github,figma,vscode&theme=light" />
-</div>
-
 ## Stats
 <div align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github&hide_border=true" height="170" />
