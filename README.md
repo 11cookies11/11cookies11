@@ -13,15 +13,12 @@
 
 ## Stats
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github&hide_border=true" height="170" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default" />
-</div>
-
-<div align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=11cookies11&theme=default&hide_border=true" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=11cookies11&theme=default&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
