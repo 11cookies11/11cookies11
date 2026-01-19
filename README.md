@@ -8,8 +8,8 @@
   <img alt="badge-ai" src="https://img.shields.io/static/v1?label=AI&message=Explorer&color=EEF6FF&style=flat-square" />
 </div>
 <div align="center">
-  <img alt="divider-left" src="https://img.shields.io/badge/-—%20—-EEF6FF?style=flat-square&logo=&logoColor=EEF6FF" />
-  <img alt="divider-right" src="https://img.shields.io/badge/-—%20—-EEF6FF?style=flat-square&logo=&logoColor=EEF6FF" />
+  <img alt="divider-left" src="https://img.shields.io/badge/%20-EEF6FF?style=flat-square&logo=&logoColor=EEF6FF" />
+  <img alt="divider-right" src="https://img.shields.io/badge/%20-EEF6FF?style=flat-square&logo=&logoColor=EEF6FF" />
 </div>
 
 ## Now
