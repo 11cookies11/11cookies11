@@ -1,41 +1,49 @@
 <div align="center">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2ff,50:f7f7f7,100:eef7ff&height=170&section=header&text=11cookies11&fontSize=38&fontAlignY=35&desc=Minimal%20builder&descAlignY=62" />
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=3A6AD4&center=true&vCenter=true&width=460&lines=Embedded+engineer+%7C+Web+%26+Desktop;Blending+skills+with+AI+to+build+new+possibilities" />
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:0f1117,45:171a22,100:2b1f1a&text=11cookies11&fontColor=ffcf99&fontSize=40&fontAlignY=35&desc=Cute%20Warm%20Cyber%20Maker&descAlignY=62&descSize=15" />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FFB066&center=true&vCenter=true&width=520&lines=Embedded+Engineer+%7C+Web+%26+Desktop+Builder;Friendly+AI+assistant+for+real-world+making;Minimal+design%2C+warm+glow%2C+clean+shipping" />
 </div>
+
 <div align="center">
-  <img alt="badge-embedded" src="https://img.shields.io/static/v1?label=Embedded&message=Engineer&color=EEF6FF&style=flat-square" />
-  <img alt="badge-web" src="https://img.shields.io/static/v1?label=Web&message=Desktop&color=EEF6FF&style=flat-square" />
-  <img alt="badge-ai" src="https://img.shields.io/static/v1?label=AI&message=Explorer&color=EEF6FF&style=flat-square" />
+  <img alt="badge-style" src="https://img.shields.io/static/v1?label=Style&message=Warm%20Cyberpunk&color=2b1f1a&labelColor=0f1117&style=for-the-badge" />
+  <img alt="badge-focus" src="https://img.shields.io/static/v1?label=Focus&message=Maker%20Engineering&color=5a3a2a&labelColor=0f1117&style=for-the-badge" />
+  <img alt="badge-mascot" src="https://img.shields.io/static/v1?label=Mascot&message=Friendly%20AI&color=ff9d4d&labelColor=0f1117&style=for-the-badge" />
+</div>
+
+<div align="center">
+<pre>
+      .-""""-.
+     /  .--.  \
+    |  (o  o)  |   Hi, I am your tiny build bot.
+    |   .--.   |   I like reliable systems and cute UI.
+     \  '--'  /
+      '-.__.-'
+</pre>
 </div>
 
 ## Now
-- Embedded engineer building reliable systems.
-- Also enjoy web and desktop tooling with clean UI.
-- Focused on blending my existing skills with AI and expanding into new areas.
+- Building reliable embedded systems with practical engineering standards.
+- Crafting web and desktop tools with clean interfaces and useful workflows.
+- Blending existing domain skills with AI to ship small, real products faster.
 
-## Stats
-<div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=11cookies11&show_icons=true&theme=default&rank_icon=github&hide_border=true" width="49%" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11cookies11&layout=compact&theme=default&hide_border=true" width="49%" />
-</div>
+## Build Zone
+`Embedded` `C/C++` `Firmware` `Python` `TypeScript` `Electron` `Tooling` `AI Workflow`
 
-<div align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=11cookies11&theme=default&hide_border=true&cache_seconds=86400" />
-</div>
-
-<div align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=11cookies11&theme=github-compact" />
-</div>
+## Working Style
+- Small iterative releases over big-bang rewrites.
+- Practical architecture with clear boundaries and maintainability.
+- Maker mindset: prototype fast, then harden what matters.
 
 ## Featured
 <div align="center">
-  <img alt="ProtoFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=protoflow&theme=default" width="49%" />
-  <img alt="StencilForge" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=StencilForge&theme=default" width="49%" />
+  <img alt="ProtoFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=protoflow&theme=tokyonight&hide_border=true&title_color=ffb066&text_color=f2d9bd&bg_color=0d1117" width="49%" />
+  <img alt="StencilForge" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=StencilForge&theme=tokyonight&hide_border=true&title_color=ffb066&text_color=f2d9bd&bg_color=0d1117" width="49%" />
 </div>
 
 ## Milestones
-- 2024: Focused on shipping small, useful products.
-- 2025: Expanding to full-stack prototypes.
+- 2024: Focused on shipping small and useful products.
+- 2025: Expanded from component work into full-stack prototypes.
+- 2026: Building an AI-assisted engineering workflow with faster iteration loops.
 
 ## Links
 - GitHub: https://github.com/11cookies11
+- Repositories: https://github.com/11cookies11?tab=repositories
