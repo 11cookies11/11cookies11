@@ -9,17 +9,6 @@
   <img alt="badge-mascot" src="https://img.shields.io/static/v1?label=Mascot&message=Friendly%20AI&color=ff9d4d&labelColor=0f1117&style=for-the-badge" />
 </div>
 
-<div align="center">
-<pre>
-      .-""""-.
-     /  .--.  \
-    |  (o  o)  |   Hi, I am your tiny build bot.
-    |   .--.   |   I like reliable systems and cute UI.
-     \  '--'  /
-      '-.__.-'
-</pre>
-</div>
-
 ## Now
 - Building reliable embedded systems with practical engineering standards.
 - Crafting web and desktop tools with clean interfaces and useful workflows.
@@ -32,12 +21,6 @@
 - Small iterative releases over big-bang rewrites.
 - Practical architecture with clear boundaries and maintainability.
 - Maker mindset: prototype fast, then harden what matters.
-
-## Featured
-<div align="center">
-  <img alt="ProtoFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=protoflow&theme=tokyonight&hide_border=true&title_color=ffb066&text_color=f2d9bd&bg_color=0d1117" width="49%" />
-  <img alt="StencilForge" src="https://github-readme-stats.vercel.app/api/pin/?username=11cookies11&repo=StencilForge&theme=tokyonight&hide_border=true&title_color=ffb066&text_color=f2d9bd&bg_color=0d1117" width="49%" />
-</div>
 
 ## Milestones
 - 2024: Focused on shipping small and useful products.
