@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:0f1117,45:171a22,100:2b1f1a&text=11cookies11&fontColor=ffcf99&fontSize=40&fontAlignY=35&desc=Cute%20Warm%20Cyber%20Maker&descAlignY=62&descSize=15" />
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FFB066&center=true&vCenter=true&width=520&lines=Embedded+Engineer+%7C+Web+%26+Desktop+Builder;Friendly+AI+assistant+for+real-world+making;Minimal+design%2C+warm+glow%2C+clean+shipping" />
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:0f1117,45:171a22,100:2b1f1a&text=11cookies11&fontColor=ffcf99&fontSize=40&fontAlignY=35" />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FFB066&center=true&vCenter=true&width=520&lines=Code+Small%2C+Dream+Big;Make+Fast%2C+Break+Boring;From+Idea+to+Firmware;Tinkering+Today%2C+Shipping+Tonight;Serious+Engineering%2C+Playful+Spirit" />
 </div>
 
 <div align="center">
